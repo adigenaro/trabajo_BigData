@@ -1,0 +1,29 @@
+---
+title: Medición del impacto ambiental y el papel de España      
+image: imagenes/myfoto.png      # Mi foto
+about:
+  template: trestles        #- {jolla, solana, ...}
+  image-width: 16em         #- https://cybmeta.com/em-y-rem
+  image-shape: rectangle    #- {rectangle, round, rounded}
+  links:
+    - icon: envelope
+      text: e-mail
+      url: "mailto:<adigen@alumni.uv.es>"            #- pon tu e-mail
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alessio-di-gennaro-b375111b9 #- linkedin
+    - icon: github
+      text: Github
+      href: https://github.com/adigenaro         #- Github
+---
+        
+¡Hola! Soy Alessio Di Gennaro, estudiante del grado de Economía en la Universidad de Valencia, y me complace presentar este trabajo final individual para la asignatura "Programación y manejo de datos en la era del Big Data", optativa de GECO en la Facultad de Economía de la Universitat de València.
+
+Si estás interesado en conocer más sobre la asignatura, puedes visitar la web de la asignatura  [aquí](https://perezp44.github.io/intro-ds-23-24-web/){target="_blank"}. Además, te invito a explorar los fascinantes trabajos de mis compañeros de curso, disponibles [aquí](https://perezp44.github.io/intro-ds-23-24-web/05-trabajos-estudiantes.html){target="_blank"}.
+
+Mi trabajo lleva por título : "Impacto ambiental en números: Emisiones de CO2, Producción energética y rol de España". El objetivo es hacer un análisis de las emisiones globales de CO2 así como de la producción energética, identificando la contribución de España al cambio climático y la transición energética.
+
+Actualmente, me encuentro en mi penúltimo semestre del curso, especializándome en investigación económica relacionada con el medio ambiente, específicamente en el campo de la Macroeconomía Ambiental o Environmental Macroeconomics.
+
+El trabajo puede verse [aquí](my_trabajo_BigData.html).
+
